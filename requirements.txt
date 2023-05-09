@@ -66,7 +66,7 @@ soupsieve==1.9.5
 termcolor==1.1.0
 texttable==1.6.2
 tldextract==2.2.2
-urllib3==1.25.8
+urllib3==1.26.5
 uvloop==0.14.0
 Werkzeug==1.0.0
 XlsxWriter==1.2.5
