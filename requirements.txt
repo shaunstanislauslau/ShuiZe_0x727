@@ -22,7 +22,7 @@ dnslib==0.9.10
 dnspython==1.16.0
 elasticsearch==7.1.0
 et-xmlfile==1.0.1
-Flask==1.1.1
+Flask==2.2.5
 FOFA==1.0.1
 geoip2==4.0.2
 gevent
