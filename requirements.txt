@@ -1,7 +1,7 @@
 openpyxl==2.6.4
 Cython
 aiodns==2.0.0
-aiohttp==3.6.2
+aiohttp==3.8.5
 aiosqlite==0.13.0
 altgraph==0.16.1
 async-timeout==3.0.1
